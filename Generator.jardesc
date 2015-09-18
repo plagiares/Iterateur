@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/Gabriel/Documents/Classes/2014-2015/Session d'Automne/Projets Eclipse/EspitiaGabrielExerciceArrayList/customArrayList.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/EspitiaGabrielExerciceArrayList/Generator.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=EspitiaGabrielExerciceArrayList/src&lt;ca.csf.exercicearraylist{Main.java[Main" manifestLocation="/EspitiaGabrielExerciceArrayList/Generator.man" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <javaElement handleIdentifier="=EspitiaGabrielExerciceArrayList/src"/>
+    </selectedElements>
+</jardesc>
